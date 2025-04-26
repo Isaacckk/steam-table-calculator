@@ -1,8 +1,3 @@
-Of course!  
-Here’s a **clean and professional `README.md`** you can use for your GitHub repository for this project:
-
----
-
 # 📘 Steam Table Calculator
 
 A simple Python application that calculates steam table properties (specific volume and enthalpy) based on user-provided temperature or pressure, with automatic interpolation for non-tabulated values.
